@@ -29,4 +29,13 @@ Panel **Source Control** → opis → **Commit** → **Sync Changes** (albo `git
 
 ## 4. Rekomendacja dla kierownika sklepu
 
-Dwie reguły do działania to **makaron → sos pomidorowy** (207 paragonów, pewność 0,312, lift 5,97) oraz **pieluchy → chusteczki nawilżane** (108 paragonów, pewność 0,307, lift 6,33). Sos pomidorowy ustawiamy obok makaronu **bez rabatu**, bo 207 z 664 klientów z makaronem i tak kupuje oba produkty: rabat 20% dałby według założeń −273,80 zł wobec +47,99 zł z samej ekspozycji i zwracałby się dopiero przy konwersji 90,6%. Chusteczki nawilżane wystawiamy przy pieluchach i proponujemy je 244 klientom, którzy kupili pieluchy bez chusteczek (np. w zestawie). **Nie polecam** stałych działań wokół reguły węgiel drzewny → kiełbasa (lift 8,25, 119 paragonów), bo to pułapka sezonowości: we wrześniu było 117 paragonów i lift 6,94, a w październiku tylko 2 paragony (lift 2,10), więc w styczniu reguła będzie nieaktualna. Nie opieram się też na regułach z chlebem lub mlekiem po prawej stronie (np. mleko → chleb: lift 1,07), bo to tylko popularność następnika. Test A/B: przez 4 tygodnie połowa sklepów (wylosowana) dostaje nowe ustawienie (sos przy makaronie, chusteczki przy pieluchach), a druga połowa jest grupą kontrolną. Porównujemy odsetek paragonów z makaronem, na których jest sos (dziś 31,2%), oraz marżę na paragon, i wdrażamy zmianę we wszystkich sklepach tylko wtedy, gdy różnica jest wyraźna i nie wynika z przypadku. Aplikacja: **https://TWOJA-NAZWA.onrender.com** (← wstaw swój adres z Render).
+Dwie reguły do działania to **makaron → sos pomidorowy** (207 paragonów, pewność 0,312, lift 5,97) oraz **pieluchy → chusteczki nawilżane** (108 paragonów, pewność 0,307, lift 6,33). 
+
+Sos pomidorowy ustawiamy obok makaronu **bez rabatu**, bo 207 z 664 klientów z makaronem i tak kupuje oba produkty: rabat 20% dałby według założeń −273,80 zł wobec +47,99 zł z samej ekspozycji i zwracałby się dopiero przy konwersji 90,6%. 
+Chusteczki nawilżane wystawiamy przy pieluchach i proponujemy je 244 klientom, którzy kupili pieluchy bez chusteczek (np. w zestawie). 
+
+**Nie polecam** stałych działań wokół reguły węgiel drzewny → kiełbasa (lift 8,25, 119 paragonów), bo to pułapka sezonowości: we wrześniu było 117 paragonów i lift 6,94, a w październiku tylko 2 paragony (lift 2,10), więc w styczniu reguła będzie nieaktualna. Nie opieram się też na regułach z chlebem lub mlekiem po prawej stronie (np. mleko → chleb: lift 1,07), bo to tylko popularność następnika. 
+
+Test A/B: przez 4 tygodnie połowa sklepów (wylosowana) dostaje nowe ustawienie (sos przy makaronie, chusteczki przy pieluchach), a druga połowa jest grupą kontrolną. Porównujemy odsetek paragonów z makaronem, na których jest sos (dziś 31,2%), oraz marżę na paragon, i wdrażamy zmianę we wszystkich sklepach tylko wtedy, gdy różnica jest wyraźna i nie wynika z przypadku.
+
+Aplikacja: **https://TWOJA-NAZWA.onrender.com** (← wstaw swój adres z Render).
