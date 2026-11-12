@@ -38,4 +38,4 @@ Chusteczki nawilżane wystawiamy przy pieluchach i proponujemy je 244 klientom, 
 
 Test A/B: przez 4 tygodnie połowa sklepów (wylosowana) dostaje nowe ustawienie (sos przy makaronie, chusteczki przy pieluchach), a druga połowa jest grupą kontrolną. Porównujemy odsetek paragonów z makaronem, na których jest sos (dziś 31,2%), oraz marżę na paragon, i wdrażamy zmianę we wszystkich sklepach tylko wtedy, gdy różnica jest wyraźna i nie wynika z przypadku.
 
-Aplikacja: **https://TWOJA-NAZWA.onrender.com** (← wstaw swój adres z Render).
+Aplikacja: **https://analiza-koszyka-2ezj.onrender.com** (← wstaw swój adres z Render).
